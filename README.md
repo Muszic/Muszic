@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SWE+Intern+@+Microsoft;B.Tech+Student+@+IIT+Jammu;Competitive+Programmer;Low-Latency+Systems+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SWE+Intern+@+Microsoft;IIT+Jammu+CS+Student;Competitive+Programmer;Systems+Engineer" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Muszic&label=Views&color=00D9FF&style=flat-square)](https://github.com/Muszic)
 [![GitHub Followers](https://img.shields.io/github/followers/Muszic?label=Followers&style=flat-square&color=00D9FF)](https://github.com/Muszic?tab=followers)
@@ -211,6 +211,10 @@
 🏆 **Contest Rating:** Knight  
 💡 **Specialization:** Algorithms & DS
 
+<a href="https://leetcode.com/u/muszic/" target="_blank">
+<img src="https://leetcard.jacoblin.cool/muszic?theme=dark&font=Ubuntu%20Mono&ext=heatmap" alt="LeetCode Stats" width="100%"/>
+</a>
+
 </td>
 <td align="center" width="33%">
 
@@ -226,6 +230,10 @@
 🔥 **Status:** Active Competitor  
 💻 **Focus:** Problem Solving  
 🧠 **Strengths:** DP, Graphs, Greedy
+
+<a href="https://codeforces.com/profile/Muujic" target="_blank">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Muujic&theme=github_dark&force_username=true&border_color=00D9FF&hide_border=false&show_icons=true" alt="Codeforces Stats" width="100%"/>
+</a>
 
 </td>
 <td align="center" width="33%">
