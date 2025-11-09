@@ -7,10 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SWE+Intern+@+Microsoft;IIT+Jammu+CS+Student;Competitive+Programmer;Systems+Engineer" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Muszic&label=Views&color=00D9FF&style=flat-square)](https://github.com/Muszic)
-[![GitHub Followers](https://img.shields.io/github/followers/Muszic?label=Followers&style=flat-square&color=00D9FF)](https://github.com/Muszic?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Muszic?label=Stars&style=flat-square&color=00D9FF)](https://github.com/Muszic?tab=repositories)
-
 </div>
 
 ---
@@ -107,8 +103,6 @@
 - ⚡ **Efficiency Boost:** Achieved **80% reduction** in manual configuration time through enterprise automation
 - 🎯 **Code Quality:** Maintained **99.9% build success rate** across multiple development branches
 - 👥 **Collaboration:** Conducted **10+ peer code reviews** in agile development cycles
-- 🔧 **Problem Solving:** Resolved **15+ critical issues** during sandbox testing and production deployments
-- 🚀 **Production Impact:** Deployed zero-downtime releases to production environment
 
 ### 💻 Technical Contributions
 
@@ -122,26 +116,11 @@
 
 **Languages & Frameworks:** C#, .NET Framework, PowerShell  
 **Cloud & DevOps:** Azure DevOps, Azure AD, Azure Monitor  
-**Practices:** Agile/Scrum, Test-Driven Development (TDD), CI/CD, Code Review, Staged Rollouts
+
 
 <details>
 <summary><b>📚 Key Learnings</b></summary>
 
-**Technical Growth:**
-- Enterprise-scale C# and .NET development
-- PowerShell scripting for automation
-- Azure cloud services integration
-- Security & compliance frameworks
-- Large codebase collaboration
-
-**Professional Development:**
-- Working with Fortune 500 clients
-- Zero-downtime deployment strategies
-- Cross-functional team collaboration
-- Production incident management
-- Technical documentation
-
-</details>
 
 ---
 
@@ -269,18 +248,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muszic&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muszic&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muszic&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies" width="90%"/>
-
-</div>
-
----
 
 ## 🎓 Leadership & Technical Impact
 
