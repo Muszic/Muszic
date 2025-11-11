@@ -17,7 +17,7 @@
 
 **Software Engineer Intern @ Microsoft | B.Tech CS @ IIT Jammu**
 
-- 💼 **Role:** SWE Intern at Microsoft SharePoint Embedded (ODSP)
+- 💼 **Experience:** SWE Intern at Microsoft SharePoint Embedded (ODSP)
 - 🎓 **Education:** IIT Jammu, B.Tech Computer Science (CGPA: 8.8/10)
 - 🏆 **Competitive Programming:** LeetCode Knight (2060) | Codeforces Specialist (1545)
 - 💡 **Expertise:** Distributed Systems, Low-latency Computing, ML/AI, Enterprise Software
@@ -97,79 +97,16 @@
 
 </div>
 
-### 🎯 Impact & Achievements
-
-- 🌍 **Global Scale:** Serving millions of users across **1000+ Fortune 500 companies**
-- ⚡ **Efficiency Boost:** Achieved **80% reduction** in manual configuration time through enterprise automation
-- 🎯 **Code Quality:** Maintained **99.9% build success rate** across multiple development branches
-- 👥 **Collaboration:** Conducted **10+ peer code reviews** in agile development cycles
 
 ### 💻 Technical Contributions
 
-- **Enterprise PowerShell Cmdlets:** Developed production-grade cmdlets using C# and .NET Framework for SharePoint container access control
+- **Enterprise PowerShell Cmdlets:** Developed production-grade RAC and RCD cmdlets using C# and .NET Framework for SharePoint container access control
 - **Access Control Systems:** Implemented scalable RAC (Restricted Access Control) and RCD (Restricted Content Discoverability) solutions
-- **Security & Compliance:** Automated security policies for Fortune 500 enterprise customers
 - **CI/CD Pipeline:** Worked with Azure DevOps for continuous integration and deployment
-- **Agile Development:** Active participant in Scrum ceremonies and sprint planning
-
-### 🔧 Technologies Used
-
-**Languages & Frameworks:** C#, .NET Framework, PowerShell  
-**Cloud & DevOps:** Azure DevOps, Azure AD, Azure Monitor  
+  
 
 
-<details>
-<summary><b>📚 Key Learnings</b></summary>
 
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ Order Matching Engine
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Muszic/Order-Matching-Engine)
-
-**High-Performance C++ Trading System**
-- 📊 **<800ns p99 latency** | 1M+ orders/sec
-- 🔧 Lock-free data structures, zero-copy I/O
-- ⚙️ NASDAQ ITCH 5.0 parser: 100K+ msg/sec
-- 🎯 25x performance optimization
-
-</td>
-<td width="50%">
-
-### 🤖 Audio LLM for Indian Languages
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Muszic/Zero-shot-Speech-to-Text-Audio-LLM)
-
-**Zero-shot Speech-to-Text for Dogri**
-- 🎙️ 140+ hours audio data processing
-- 📈 60% accuracy improvement
-- 🧠 Zero/few-shot learning pipeline
-- 🌟 Empowering low-resource languages
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🗨️ View More Projects</b></summary>
-
-### High-Performance Chat Application
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Muszic/cpp-chat-app)
-
-**Scalable Client-Server Architecture (C++)**
-- 👥 100+ concurrent clients | <10ms latency
-- 🔄 I/O multiplexing with select()
-- 💬 Group chat, persistence, authentication
-- ⚙️ Multi-threaded real-time design
-
-</details>
-
----
 
 ## 🎯 Competitive Programming Excellence
 
@@ -184,9 +121,9 @@
 <img src="https://img.shields.io/badge/SOLVED-376/3730-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" />
 <img src="https://img.shields.io/badge/KNIGHT-TOP_5%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" />
 
-📊 **Rating:** 2060  
+📊 **Max Rating:** 2060  
 🌍 **Global Rank:** Top 5%  
-✅ **Problems:** 1000+  
+✅ **Problems:** 350+  
 🏆 **Contest Rating:** Knight  
 💡 **Specialization:** Algorithms & DS
 
