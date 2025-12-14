@@ -140,10 +140,6 @@
 
 ### ⚔️ Codeforces Expert
 
-<img src="https://img.shields.io/badge/SPECIALIST-1545-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black" />
-<img src="https://img.shields.io/badge/MAX_RATING-1545-00C853?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black" />
-
-
 
 <a href="https://codeforces.com/profile/Muujic" target="_blank">
 <!-- codeforces-stats-start -->
