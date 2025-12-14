@@ -138,16 +138,12 @@
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="80" height="80" alt="Codeforces"/>
 
-### ⚔️ Codeforces Specialist
+### ⚔️ Codeforces Expert
 
 <img src="https://img.shields.io/badge/SPECIALIST-1545-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black" />
 <img src="https://img.shields.io/badge/MAX_RATING-1545-00C853?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black" />
 
-⚡ **Peak Rating:** 1545  
-🎖️ **Rank:** Specialist  
-🔥 **Status:** Active Competitor  
-💻 **Focus:** Problem Solving  
-🧠 **Strengths:** DP, Graphs, Greedy
+
 
 <a href="https://codeforces.com/profile/Muujic" target="_blank">
 <!-- codeforces-stats-start -->
