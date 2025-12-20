@@ -19,7 +19,7 @@
 
 - 💼 **Experience:** SWE Intern at Microsoft SharePoint Embedded (ODSP)
 - 🎓 **Education:** IIT Jammu, B.Tech Computer Science (CGPA: 8.8/10)
-- 🏆 **Competitive Programming:** LeetCode Knight (2060) | Codeforces Specialist (1545)
+- 🏆 **Competitive Programming:** LeetCode Knight (2060) | Codeforces Expert (1700)
 - 💡 **Expertise:** Distributed Systems, Low-latency Computing, ML/AI, Enterprise Software
 - 🎯 **Focus:** System Design, Performance Optimization, Competitive Programming
 
