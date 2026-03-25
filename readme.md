@@ -35,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="48"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48"/>
   <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="48"/>
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48"/>
 </p>
 
 ### AI/ML & Computer Vision
@@ -49,7 +48,6 @@
 ### Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="48"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48"/>
   <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48"/>
 </p>
