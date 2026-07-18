@@ -14,11 +14,10 @@
 
 ## 👨‍💻 Quick Intro
 
-**AI Intern @ Tenstorrent | SWE Intern @ Microsoft | B.Tech CS @ IIT Jammu**
+**AMTS @ Salesforce | AI Intern @ Tenstorrent | SWE Intern @ Microsoft | B.Tech CS @ IIT Jammu**
 
-- 💼 **Experience:** AI Intern at Tenstorrent & Former SWE Intern at Microsoft
+- 💼 **Experience:** AMTS at Salesforce AI Intern at Tenstorrent & Former SWE Intern at Microsoft
 - 🎓 **Education:** IIT Jammu, B.Tech Computer Science (CGPA: 8.8/10)
-- 🏆 **Competitive Programming:** LeetCode Knight (2060) | Codeforces Expert (1700)
 
 <br clear="right"/>
 
