@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muszic/Muszic/main/banner.gif" alt="Sangeet Sangwan Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Muszic/Muszic/main/SangeetSangwan-ezgif.com-optimize.gif" alt="Sangeet Sangwan Banner" width="100%">
 </p>
 
 <div align="center">
