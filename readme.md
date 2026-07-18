@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Intern+@+Tenstorrent;SWE+Intern+@+Microsoft;IIT+Jammu+CS+Student;Competitive+Programmer;Systems+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Associate+Member+of+Technical+Staff+@+Salesforce;Former+AI+Intern+@+Tenstorrent;Former+SWE+Intern+@+Microsoft;IIT+Jammu+Computer+Science;Competitive+Programmer" alt="Typing SVG" />
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Quick Intro
 
-**AMTS @ Salesforce | AI Intern @ Tenstorrent | SWE Intern @ Microsoft | B.Tech CS @ IIT Jammu**
+**Associate Member of Technical Staff @ Salesforce | Former AI Intern @ Tenstorrent | Former SWE Intern @ Microsoft | IIT Jammu**
 
-- 💼 **Experience:** AMTS at Salesforce AI Intern at Tenstorrent & Former SWE Intern at Microsoft
+- 💼 **Experience:** Associate Member of Technical Staff at Salesforce, Former AI Intern at Tenstorrent, Former Software Engineer Intern at Microsoft
 - 🎓 **Education:** IIT Jammu, B.Tech Computer Science (CGPA: 8.8/10)
 
 <br clear="right"/>
@@ -58,9 +58,24 @@
 ## 💼 Experience
 
 <div align="center">
+<img src="https://img.icons8.com/color/200/salesforce.png" width="80" alt="Salesforce"/>
+
+### Associate Member of Technical Staff @ Salesforce
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/AMTS-00A1E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bengaluru-India-0176D3?style=for-the-badge" />
+
+**Software Engineering | Salesforce Platform | Bengaluru, India**
+
+</div>
+
+---
+
+<div align="center">
 <img src="https://tenstorrent.com/favicon.ico" width="80" alt="Tenstorrent"/>
 
-### AI Intern @ Tenstorrent
+### Former AI Intern @ Tenstorrent
 
 <img src="https://img.shields.io/badge/Tenstorrent-000000?style=for-the-badge&logo=tenstorrent&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Accelerators-FFD700?style=for-the-badge&logo=cpu&logoColor=black" />
@@ -75,7 +90,7 @@
 <div align="center">
 <img src="https://img.icons8.com/fluency/200/000000/microsoft.png" width="80" alt="Microsoft"/>
 
-### Software Engineer Intern @ Microsoft
+### Former Software Engineer Intern @ Microsoft
 
 <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/SharePoint_Embedded-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
