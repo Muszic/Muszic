@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="552" viewBox="0 0 1200 552" role="img" aria-labelledby="title">
+<title id="title">Repositories in the open-source journey</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FAFCF7"/><stop offset="1" stop-color="#EAF3E5"/></linearGradient>
+  <radialGradient id="metal" cx="28%" cy="18%"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#718477"/></radialGradient>
+  <filter id="rowShadow"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#31553B" flood-opacity=".10"/></filter>
+  <filter id="orbShadow"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#2D6A3D" flood-opacity=".28"/></filter>
+</defs>
+<style>
+  text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+  .repo { font-size: 18px; font-weight: 750; fill: #13282A; }
+  .focus { font-size: 13px; fill: #66736A; }
+  .chipLabel { font-size: 8px; font-weight: 750; letter-spacing: .8px; fill: #66736A; }
+  .chipValue { font-size: 14px; font-weight: 750; fill: #0A7A43; }
+</style>
+<rect width="1200" height="552" rx="28" fill="url(#bg)"/>
+<g transform="translate(52 45)">
+<circle cy="6" r="28" fill="#234B31" opacity=".16"/>
+<circle r="28" fill="url(#metal)" stroke="#1B5337" stroke-width="2"/>
+<circle r="21" fill="#13282A" stroke="#B8F29E"/>
+<path d="M-14 -14H14L3 0L14 14H-14L-3 0Z" fill="#82E35B"/>
+<path d="M-15 -15A20 20 0 0 1 12 -17" fill="none" stroke="#FFFFFF" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="92" y="38" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="750" letter-spacing="1.5" fill="#0A7A43">UPSTREAM MAP</text>
+<text x="92" y="62" font-family="Inter,Segoe UI,Arial" font-size="22" font-weight="750" fill="#13282A">Where the work is happening</text>
+<text x="1168" y="50" text-anchor="end" font-family="Inter,Segoe UI,Arial" font-size="12" fill="#66736A">Sorted by merged work, then total PRs</text>
+<g transform="translate(24 94)">
+<rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>
+<rect width="1152" height="68" rx="19" fill="#F0F7EB" stroke="#D3DFCC"/>
+<circle cx="31" cy="34" r="12" fill="#E3F5DB" stroke="#B9DDAF"/><circle cx="31" cy="34" r="5" fill="#58D453"/>
+<text x="55" y="29" class="repo">microsoft / vscode</text>
+<text x="55" y="50" class="focus">Correctness fixes, terminal suggestions, and regression tes…</text>
+<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">1</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">3</text></g>
+<g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">1</text></g>
+</g><g transform="translate(24 178)">
+<rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>
+<rect width="1152" height="68" rx="19" fill="#F0F7EB" stroke="#D3DFCC"/>
+<circle cx="31" cy="34" r="12" fill="#E3F5DB" stroke="#B9DDAF"/><circle cx="31" cy="34" r="5" fill="#58D453"/>
+<text x="55" y="29" class="repo">google / googletest</text>
+<text x="55" y="50" class="focus">UTF-8 output, flag parsing, and timestamp correctness</text>
+<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">1</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">2</text></g>
+<g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">0</text></g>
+</g><g transform="translate(24 262)">
+<rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>
+<rect width="1152" height="68" rx="19" fill="#FEFFF9" stroke="#D3DFCC"/>
+<circle cx="31" cy="34" r="12" fill="#E3F5DB" stroke="#B9DDAF"/><circle cx="31" cy="34" r="5" fill="#58D453"/>
+<text x="55" y="29" class="repo">ollama / ollama</text>
+<text x="55" y="50" class="focus">OpenAI-compatible response IDs and streaming behavior</text>
+<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">0</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">2</text></g>
+<g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">0</text></g>
+</g><g transform="translate(24 346)">
+<rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>
+<rect width="1152" height="68" rx="19" fill="#FEFFF9" stroke="#D3DFCC"/>
+<circle cx="31" cy="34" r="12" fill="#E3F5DB" stroke="#B9DDAF"/><circle cx="31" cy="34" r="5" fill="#58D453"/>
+<text x="55" y="29" class="repo">tenstorrent / polaris</text>
+<text x="55" y="50" class="focus">ONNX workloads and fused-operator support</text>
+<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">0</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">2</text></g>
+<g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">0</text></g>
+</g><g transform="translate(24 430)">
+<rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>
+<rect width="1152" height="68" rx="19" fill="#FEFFF9" stroke="#D3DFCC"/>
+<circle cx="31" cy="34" r="12" fill="#E3F5DB" stroke="#B9DDAF"/><circle cx="31" cy="34" r="5" fill="#58D453"/>
+<text x="55" y="29" class="repo">microsoft / SharePoint Embedded</text>
+<text x="55" y="50" class="focus">Clearer non-admin development experience</text>
+<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">0</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">1</text></g>
+<g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">0</text></g>
+</g>
+</svg>
