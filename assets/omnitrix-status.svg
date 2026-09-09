@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-label="Omnitrix engineering status">
+<defs><linearGradient id="bg" y2="1"><stop stop-color="#F9FBF6"/><stop offset="1" stop-color="#ECF4E7"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#2F5E3A" flood-opacity=".12"/></filter></defs>
+<rect width="1200" height="142" rx="27" fill="url(#bg)"/><g transform="translate(18 18)">
+<rect width="277" height="106" rx="22" fill="#FEFFF9" fill-opacity=".91" stroke="#D5DFCF" filter="url(#shadow)"/>
+<circle cx="36" cy="33" r="10" fill="#E5F7DC" stroke="#B9DAAC"/><circle cx="36" cy="33" r="4" fill="#55D451"/>
+<text x="58" y="36" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="700" letter-spacing="1.2" fill="#66736A">CURRENT FORM</text>
+<text x="28" y="77" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700" fill="#13282A">SOFTWARE ENGINEER</text>
+</g><g transform="translate(313 18)">
+<rect width="277" height="106" rx="22" fill="#FEFFF9" fill-opacity=".91" stroke="#D5DFCF" filter="url(#shadow)"/>
+<circle cx="36" cy="33" r="10" fill="#E5F7DC" stroke="#B9DAAC"/><circle cx="36" cy="33" r="4" fill="#55D451"/>
+<text x="58" y="36" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="700" letter-spacing="1.2" fill="#66736A">CORE</text>
+<text x="28" y="77" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700" fill="#13282A">SYSTEMS + AI</text>
+</g><g transform="translate(608 18)">
+<rect width="277" height="106" rx="22" fill="#FEFFF9" fill-opacity=".91" stroke="#D5DFCF" filter="url(#shadow)"/>
+<circle cx="36" cy="33" r="10" fill="#E5F7DC" stroke="#B9DAAC"/><circle cx="36" cy="33" r="4" fill="#55D451"/>
+<text x="58" y="36" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="700" letter-spacing="1.2" fill="#66736A">SIGNAL</text>
+<text x="28" y="77" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700" fill="#13282A">OPEN SOURCE ONLINE</text>
+</g><g transform="translate(903 18)">
+<rect width="277" height="106" rx="22" fill="#FEFFF9" fill-opacity=".91" stroke="#D5DFCF" filter="url(#shadow)"/>
+<circle cx="36" cy="33" r="10" fill="#E5F7DC" stroke="#B9DAAC"/><circle cx="36" cy="33" r="4" fill="#55D451"/>
+<text x="58" y="36" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="700" letter-spacing="1.2" fill="#66736A">MISSION</text>
+<text x="28" y="77" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700" fill="#13282A">BUILD / LEARN / SHARE</text>
+</g>
+</svg>
