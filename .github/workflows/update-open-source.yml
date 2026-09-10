@@ -1,0 +1,60 @@
+name: Refresh open-source journey
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "readme.md"
+      - "scripts/update_open_source.py"
+      - "scripts/build_brand_visuals.py"
+      - ".github/workflows/update-open-source.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-open-source-journey
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'Muszic/Muszic' && github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild brand and skill visuals
+        run: python scripts/build_brand_visuals.py
+
+      - name: Refresh contribution data and visuals
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+          python scripts/update_open_source.py
+          --username Muszic
+          --readme readme.md
+          --stats assets/open-source-stats.svg
+          --map assets/open-source-map.svg
+
+      - name: Commit refreshed journey
+        run: |
+          if git diff --quiet -- readme.md assets; then
+            echo "No profile changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add readme.md assets
+          git commit -m "docs: refresh profile visuals and open-source journey"
+          git push
