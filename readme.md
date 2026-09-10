@@ -112,7 +112,7 @@ Public pull requests, grouped by the repositories where I contributed.
 </p>
 
 <p align="center">
-  <strong>5 repositories · 13 pull requests · 2 merged · 10 open · 1 closed without merge</strong><br/>
+  <strong>6 repositories · 14 pull requests · 2 merged · 11 open · 1 closed without merge</strong><br/>
   <a href="https://github.com/search?q=is%3Apr%20author%3AMuszic%20is%3Apublic%20-user%3AMuszic&type=pullrequests"><strong>Explore every public upstream pull request ↗</strong></a>
 </p>
 
@@ -126,12 +126,14 @@ Public pull requests, grouped by the repositories where I contributed.
 | [**google/googletest**](https://github.com/google/googletest) | UTF-8 output, flag parsing, and timestamp correctness | [1](https://github.com/google/googletest/pulls?q=is%3Apr%20author%3AMuszic%20is%3Amerged) | [2](https://github.com/google/googletest/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 | [**ollama/ollama**](https://github.com/ollama/ollama) | OpenAI-compatible response IDs and streaming behavior | 0 | [2](https://github.com/ollama/ollama/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 | [**tenstorrent/polaris**](https://github.com/tenstorrent/polaris) | ONNX workloads and fused-operator support | 0 | [2](https://github.com/tenstorrent/polaris/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
+| [**google/osv-scanner**](https://github.com/google/osv-scanner) | Upstream fixes, tests, and product improvements | 0 | [1](https://github.com/google/osv-scanner/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 | [**microsoft/SharePoint-Embedded-VS-Code-Extension**](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension) | Clearer non-admin development experience | 0 | [1](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 
 #### Recent pull-request activity
 
 | Pull request | Status |
 | :--- | :--- |
+| [google/osv-scanner#3070 · fix: respect explicit false for license scanning](https://github.com/google/osv-scanner/pull/3070) | Open |
 | [microsoft/vscode#301176 · fix: correctly handle falsy values in HistoryNavigator._currentPosition](https://github.com/microsoft/vscode/pull/301176) | Open |
 | [microsoft/vscode#305309 · feat(terminal-suggest): Add upstream Cargo completion spec](https://github.com/microsoft/vscode/pull/305309) | Open |
 | [google/googletest#5082 · Preserve UTF-8 strings in JSON output](https://github.com/google/googletest/pull/5082) | **Merged** |
@@ -139,7 +141,6 @@ Public pull requests, grouped by the repositories where I contributed.
 | [tenstorrent/polaris#496 · Add deeepseek-coder workload ONNX Support](https://github.com/tenstorrent/polaris/pull/496) | Open |
 | [tenstorrent/polaris#494 · Add Whisper base workload ONNX Support and SkipLayerNormalization support](https://github.com/tenstorrent/polaris/pull/494) | Open |
 | [google/googletest#5087 · Reject empty values for integer flags](https://github.com/google/googletest/pull/5087) | Open |
-| [microsoft/vscode#300808 · test: add findFiles2 multiple pattern and exclude coverage](https://github.com/microsoft/vscode/pull/300808) | Open |
 
 </details>
 

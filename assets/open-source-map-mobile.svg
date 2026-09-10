@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="690" viewBox="0 0 600 690" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="806" viewBox="0 0 600 806" role="img" aria-labelledby="title">
 <title id="title">Repositories in the open-source journey</title>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FAFCF7"/><stop offset="1" stop-color="#EAF3E5"/></linearGradient><radialGradient id="metal" cx="28%" cy="18%"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#718477"/></radialGradient></defs>
 <style>text{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}.repo{font-size:15px;font-weight:750;fill:#13282A}.focus{font-size:10px;fill:#66736A}.chip{font-size:9px;font-weight:750;fill:#0A7A43}</style>
-<rect width="600" height="690" rx="25" fill="url(#bg)"/>
+<rect width="600" height="806" rx="25" fill="url(#bg)"/>
 <g transform="translate(40 39)">
 <circle cy="6" r="23" fill="#234B31" opacity=".16"/>
 <circle r="23" fill="url(#metal)" stroke="#1B5337" stroke-width="2"/>
@@ -81,6 +81,22 @@
 <g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 2</text></g>
 <g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
 </g><g transform="translate(18 544)">
+<rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
+<rect width="564" height="100" rx="18" fill="#FEFFF9" stroke="#D3DFCC"/>
+<g transform="translate(31 28)">
+<circle r="27.3" fill="#82E35B" opacity=".10"/>
+<circle cy="2.5" r="21.0" fill="#234B31" opacity=".14"/>
+<circle r="21.0" fill="url(#metal)" stroke="#315E43" stroke-width="1.4"/>
+<circle r="16.0" fill="#FFFFFF" stroke="#D9E3D5"/>
+<path d="M-10.9 -11.1A14.9 14.9 0 0 1 9.2 -12.2" fill="none" stroke="#FFFFFF" stroke-opacity=".78" stroke-width="2.3" stroke-linecap="round"/>
+<text x="0" y="3.8" text-anchor="middle" font-family="Inter,Segoe UI,Arial" font-size="14.7" font-weight="800" fill="#0A7A43">OS</text>
+</g>
+<text x="66" y="26" class="repo">google / osv-scanner</text>
+<text x="66" y="47" class="focus">Upstream fixes, tests, and product improvements</text>
+<g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 0</text></g>
+<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 1</text></g>
+<g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
+</g><g transform="translate(18 660)">
 <rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
 <rect width="564" height="100" rx="18" fill="#FEFFF9" stroke="#D3DFCC"/>
 <g transform="translate(31 28)">

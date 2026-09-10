@@ -27,14 +27,14 @@
 <rect y="7" width="266" height="142" rx="24" fill="#31553B" opacity=".09"/>
 <rect width="266" height="142" rx="24" fill="#FEFFF9" stroke="#D2DEC9"/>
 <circle cx="235" cy="29" r="5" fill="#65DA57"/>
-<text x="24" y="78" class="number">5</text>
+<text x="24" y="78" class="number">6</text>
 <text x="26" y="111" class="label">REPOSITORIES</text>
 <text x="238" y="113" text-anchor="end" class="note">DISCOVERED</text>
 </g><g transform="translate(314 78)">
 <rect y="7" width="266" height="142" rx="24" fill="#31553B" opacity=".09"/>
 <rect width="266" height="142" rx="24" fill="#F0F7EA" stroke="#D2DEC9"/>
 <circle cx="235" cy="29" r="5" fill="#65DA57"/>
-<text x="24" y="78" class="number">13</text>
+<text x="24" y="78" class="number">14</text>
 <text x="26" y="111" class="label">PULL REQUESTS</text>
 <text x="238" y="113" text-anchor="end" class="note">AUTHORED</text>
 </g><g transform="translate(604 78)">
@@ -48,7 +48,7 @@
 <rect y="7" width="266" height="142" rx="24" fill="#31553B" opacity=".09"/>
 <rect width="266" height="142" rx="24" fill="#F0F7EA" stroke="#D2DEC9"/>
 <circle cx="235" cy="29" r="5" fill="#65DA57"/>
-<text x="24" y="78" class="number">10</text>
+<text x="24" y="78" class="number">11</text>
 <text x="26" y="111" class="label">OPEN</text>
 <text x="238" y="113" text-anchor="end" class="note">IN REVIEW</text>
 </g>
