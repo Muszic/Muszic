@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="48" viewBox="0 0 142 48" role="img" aria-labelledby="title">
+<title id="title">Experience</title>
+<defs>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#FBFFF8"/><stop offset="1" stop-color="#E8F2E3"/></linearGradient>
+  <linearGradient id="metal" x1=".12" y1=".05" x2=".9" y2=".95"><stop stop-color="#FFFFFF"/><stop offset=".2" stop-color="#E8F0E4"/><stop offset=".48" stop-color="#9BAB9E"/><stop offset=".72" stop-color="#F9FFF5"/><stop offset="1" stop-color="#667A6D"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A8650"/><stop offset="1" stop-color="#0B5E3E"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#82E35B" stop-opacity=".58"/><stop offset="1" stop-color="#82E35B" stop-opacity="0"/></radialGradient>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#274A36" flood-opacity=".18"/></filter>
+  <filter id="deepShadow" x="-50%" y="-50%" width="200%" height="230%"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#173826" flood-opacity=".20"/></filter>
+  <filter id="glowFilter" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
+  
+</defs>
+<style>
+  text{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+</style>
+<rect x="1" y="1" width="140" height="46" rx="23" fill="url(#glass)" stroke="#D2DECC" filter="url(#shadow)"/>
+<circle cx="24" cy="24" r="15" fill="url(#metal)" stroke="#83A089"/>
+<circle cx="24" cy="24" r="10.5" fill="#16382C"/>
+<rect x="18.05" y="20.6" width="11.899999999999999" height="8.16" rx="1.1900000000000002" fill="none" stroke="#82E35B" stroke-width="1.7000000000000002"/><path d="M21.45 20.6V18.22H26.55V20.6M18.05 24.17H29.95" fill="none" stroke="#82E35B" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<text x="45" y="29" font-size="14" font-weight="750" fill="#13282A">Experience</text>
+<circle cx="127" cy="12" r="3" fill="#82E35B"/>
+</svg>

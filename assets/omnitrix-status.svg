@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="248" viewBox="0 0 1200 248" role="img" aria-labelledby="title">
+<title id="title">Omnitrix identity console for Sangeet Sangwan</title>
+<defs>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#FBFFF8"/><stop offset="1" stop-color="#E8F2E3"/></linearGradient>
+  <linearGradient id="metal" x1=".12" y1=".05" x2=".9" y2=".95"><stop stop-color="#FFFFFF"/><stop offset=".2" stop-color="#E8F0E4"/><stop offset=".48" stop-color="#9BAB9E"/><stop offset=".72" stop-color="#F9FFF5"/><stop offset="1" stop-color="#667A6D"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A8650"/><stop offset="1" stop-color="#0B5E3E"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#82E35B" stop-opacity=".58"/><stop offset="1" stop-color="#82E35B" stop-opacity="0"/></radialGradient>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#274A36" flood-opacity=".18"/></filter>
+  <filter id="deepShadow" x="-50%" y="-50%" width="200%" height="230%"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#173826" flood-opacity=".20"/></filter>
+  <filter id="glowFilter" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
+  
+</defs>
+<style>
+  text{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+</style>
+<rect x="1" y="1" width="1198" height="246" rx="32" fill="url(#glass)" stroke="#D2DECC"/>
+<ellipse cx="150" cy="108" rx="220" ry="190" fill="url(#glow)" opacity=".28"/>
+<path d="M720 -8C649 62 645 157 745 253" fill="none" stroke="#D0E5C8" stroke-width="2"/>
+<path d="M761 -8C690 64 691 153 791 253" fill="none" stroke="#E0EBDB" stroke-width="1.4"/>
+<path d="M800 -8C735 67 740 151 836 253" fill="none" stroke="#EEF4EA" stroke-width="1"/><g filter="url(#deepShadow)">
+<circle cx="118" cy="137.1" r="86.1" fill="#173A27" opacity=".14"/>
+<circle cx="118" cy="124" r="91.8" fill="url(#glow)" opacity=".32"/>
+<circle cx="118" cy="124" r="82" fill="url(#metal)" stroke="#1B5938" stroke-width="2.4"/>
+<path d="M118.0 53.5L118.0 43.6" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M159.5 66.9L165.2 59.0" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M185.1 102.2L194.4 99.2" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M185.1 145.8L194.4 148.8" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M159.5 181.1L165.2 189.0" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M118.0 194.5L118.0 204.4" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M76.5 181.1L70.8 189.0" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M50.9 145.8L41.6 148.8" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M50.9 102.2L41.6 99.2" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/><path d="M76.5 66.9L70.8 59.0" stroke="#345A43" stroke-width="2.9" stroke-linecap="round"/>
+<circle cx="118" cy="124" r="60.7" fill="#102A25" stroke="#C7FFAC" stroke-width="1.5"/>
+<circle cx="118" cy="124" r="50.0" fill="#143831" stroke="#456B55" stroke-width="1"/>
+<path d="M81.9 87.9H154.1L128.1 124.0L154.1 160.1H81.9L107.9 124.0Z" fill="#82E35B"/>
+<path d="M74.5 80.5A59.0 59.0 0 0 1 154.9 75.6" fill="none" stroke="#FFFFFF" stroke-opacity=".82" stroke-width="4.5" stroke-linecap="round"/>
+</g><text x="226" y="43" font-size="11.5" font-weight="780" letter-spacing="2" fill="#087A43">OMNITRIX / IDENTITY CONSOLE</text><text x="224" y="91" font-size="42" font-weight="800" letter-spacing="-1.7" fill="#13282A">Software Engineer</text><text x="226" y="121" font-size="17" fill="#68766D">Sangeet Sangwan · systems · AI · open source</text><rect x="226" y="143" width="106" height="31" rx="15.5" fill="#E6F7DF" stroke="#C5E5B9"/><circle cx="243" cy="159" r="4.5" fill="#82E35B"/><text x="256" y="164" font-size="11.5" font-weight="780" fill="#087A43">ONLINE</text><rect x="342" y="143" width="154" height="31" rx="15.5" fill="#F3F7EF" stroke="#D2DECC"/><text x="419" y="164" text-anchor="middle" font-size="11.5" font-weight="720" fill="#244238">FORM 00 / HUMAN</text><rect x="506" y="143" width="130" height="31" rx="15.5" fill="#F3F7EF" stroke="#D2DECC"/><text x="571" y="164" text-anchor="middle" font-size="11.5" font-weight="720" fill="#244238">IIT JAMMU</text><path d="M226 194H651" stroke="#D2DECC"/><text x="226" y="219" font-size="11" font-weight="760" letter-spacing="1.4" fill="#68766D">CORRECTNESS · PERFORMANCE · DEVELOPER TOOLING · MODEL SYSTEMS</text><g transform="translate(690 30)" filter="url(#shadow)">
+<rect width="232" height="78" rx="20" fill="url(#glass)" stroke="#D2DECC"/>
+<circle cx="34" cy="39" r="22" fill="#E9F8E3" stroke="#BEDDB2"/>
+<circle cx="34" cy="39" r="8.7" fill="none" stroke="#087A43" stroke-width="2.9000000000000004"/><path d="M21.82 39H26.17M41.83 39H46.18M34 26.82V31.17M34 46.83V51.18" stroke="#087A43" stroke-width="2.9000000000000004" stroke-linecap="round"/>
+<text x="68" y="27" font-size="10.5" font-weight="760" letter-spacing="1.4" fill="#68766D">CORE</text>
+<text x="68" y="52" font-size="17" font-weight="780" fill="#13282A">Systems + AI</text>
+<circle cx="216" cy="15" r="3.5" fill="#82E35B"/>
+</g><g transform="translate(938 30)" filter="url(#shadow)">
+<rect width="232" height="78" rx="20" fill="url(#glass)" stroke="#D2DECC"/>
+<circle cx="34" cy="39" r="22" fill="#E9F8E3" stroke="#BEDDB2"/>
+<path d="M24.14 45.67A13.92 13.92 0 0 1 43.86 45.67M27.62 42.19A8.99 8.99 0 0 1 40.38 42.19M31.68 38.42A3.19 3.19 0 0 1 36.32 38.42" fill="none" stroke="#087A43" stroke-width="2.9000000000000004" stroke-linecap="round"/><circle cx="34" cy="47.7" r="1.74" fill="#087A43"/>
+<text x="68" y="27" font-size="10.5" font-weight="760" letter-spacing="1.4" fill="#68766D">SIGNAL</text>
+<text x="68" y="52" font-size="17" font-weight="780" fill="#13282A">Open source</text>
+<circle cx="216" cy="15" r="3.5" fill="#82E35B"/>
+</g><g transform="translate(690 130)" filter="url(#shadow)">
+<rect width="232" height="78" rx="20" fill="url(#glass)" stroke="#D2DECC"/>
+<circle cx="34" cy="39" r="22" fill="#E9F8E3" stroke="#BEDDB2"/>
+<rect x="23.85" y="33.2" width="20.299999999999997" height="13.92" rx="2.0300000000000002" fill="none" stroke="#087A43" stroke-width="2.9000000000000004"/><path d="M29.65 33.2V29.14H38.35V33.2M23.85 39.29H44.15" fill="none" stroke="#087A43" stroke-width="2.9000000000000004" stroke-linecap="round"/>
+<text x="68" y="27" font-size="10.5" font-weight="760" letter-spacing="1.4" fill="#68766D">CURRENT BASE</text>
+<text x="68" y="52" font-size="17" font-weight="780" fill="#13282A">Salesforce · AMTS</text>
+<circle cx="216" cy="15" r="3.5" fill="#82E35B"/>
+</g><g transform="translate(938 130)" filter="url(#shadow)">
+<rect width="232" height="78" rx="20" fill="url(#glass)" stroke="#D2DECC"/>
+<circle cx="34" cy="39" r="22" fill="#E9F8E3" stroke="#BEDDB2"/>
+<path d="M24.43 47.7L31.1 29.14L36.9 36.68L44.15 29.43L38.64 47.99Z" fill="none" stroke="#087A43" stroke-width="2.9000000000000004" stroke-linejoin="round"/><circle cx="34" cy="41.32" r="2.32" fill="#087A43"/>
+<text x="68" y="27" font-size="10.5" font-weight="760" letter-spacing="1.4" fill="#68766D">MISSION</text>
+<text x="68" y="52" font-size="17" font-weight="780" fill="#13282A">Build · Learn · Share</text>
+<circle cx="216" cy="15" r="3.5" fill="#82E35B"/>
+</g>
+</svg>
