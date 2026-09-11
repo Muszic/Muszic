@@ -133,9 +133,9 @@ Public pull requests, grouped by the repositories where I contributed.
 
 | Pull request | Status |
 | :--- | :--- |
+| [microsoft/vscode#305309 · feat(terminal-suggest): Add upstream Cargo completion spec](https://github.com/microsoft/vscode/pull/305309) | Open |
 | [google/osv-scanner#3070 · fix: respect explicit false for license scanning](https://github.com/google/osv-scanner/pull/3070) | Open |
 | [microsoft/vscode#301176 · fix: correctly handle falsy values in HistoryNavigator._currentPosition](https://github.com/microsoft/vscode/pull/301176) | Open |
-| [microsoft/vscode#305309 · feat(terminal-suggest): Add upstream Cargo completion spec](https://github.com/microsoft/vscode/pull/305309) | Open |
 | [google/googletest#5082 · Preserve UTF-8 strings in JSON output](https://github.com/google/googletest/pull/5082) | **Merged** |
 | [google/googletest#5090 · Fix JSON timestamps to use UTC](https://github.com/google/googletest/pull/5090) | Open |
 | [tenstorrent/polaris#496 · Add deeepseek-coder workload ONNX Support](https://github.com/tenstorrent/polaris/pull/496) | Open |
