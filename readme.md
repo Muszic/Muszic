@@ -112,7 +112,7 @@ Public pull requests, grouped by the repositories where I contributed.
 </p>
 
 <p align="center">
-  <strong>6 repositories · 15 pull requests · 2 merged · 12 open · 1 closed without merge</strong><br/>
+  <strong>6 repositories · 15 pull requests · 3 merged · 11 open · 1 closed without merge</strong><br/>
   <a href="https://github.com/search?q=is%3Apr%20author%3AMuszic%20is%3Apublic%20-user%3AMuszic&type=pullrequests"><strong>Explore every public upstream pull request ↗</strong></a>
 </p>
 
@@ -124,7 +124,7 @@ Public pull requests, grouped by the repositories where I contributed.
 | :--- | :--- | ---: | ---: | ---: |
 | [**microsoft/vscode**](https://github.com/microsoft/vscode) | Correctness fixes, terminal suggestions, and regression tests | [1](https://github.com/microsoft/vscode/pulls?q=is%3Apr%20author%3AMuszic%20is%3Amerged) | [3](https://github.com/microsoft/vscode/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | [1](https://github.com/microsoft/vscode/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aclosed%20is%3Aunmerged) |
 | [**google/googletest**](https://github.com/google/googletest) | UTF-8 output, flag parsing, and timestamp correctness | [1](https://github.com/google/googletest/pulls?q=is%3Apr%20author%3AMuszic%20is%3Amerged) | [2](https://github.com/google/googletest/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
-| [**google/osv-scanner**](https://github.com/google/osv-scanner) | Upstream fixes, tests, and product improvements | 0 | [2](https://github.com/google/osv-scanner/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
+| [**google/osv-scanner**](https://github.com/google/osv-scanner) | Upstream fixes, tests, and product improvements | [1](https://github.com/google/osv-scanner/pulls?q=is%3Apr%20author%3AMuszic%20is%3Amerged) | [1](https://github.com/google/osv-scanner/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 | [**ollama/ollama**](https://github.com/ollama/ollama) | OpenAI-compatible response IDs and streaming behavior | 0 | [2](https://github.com/ollama/ollama/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 | [**tenstorrent/polaris**](https://github.com/tenstorrent/polaris) | ONNX workloads and fused-operator support | 0 | [2](https://github.com/tenstorrent/polaris/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
 | [**microsoft/SharePoint-Embedded-VS-Code-Extension**](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension) | Clearer non-admin development experience | 0 | [1](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension/pulls?q=is%3Apr%20author%3AMuszic%20is%3Aopen) | 0 |
@@ -134,7 +134,7 @@ Public pull requests, grouped by the repositories where I contributed.
 | Pull request | Status |
 | :--- | :--- |
 | [microsoft/vscode#305309 · Add upstream Cargo completion spec for terminal suggestions](https://github.com/microsoft/vscode/pull/305309) | Open |
-| [google/osv-scanner#3083 · fix: return error when container image is missing](https://github.com/google/osv-scanner/pull/3083) | Open |
+| [google/osv-scanner#3083 · fix: return error when container image is missing](https://github.com/google/osv-scanner/pull/3083) | **Merged** |
 | [google/osv-scanner#3070 · fix: respect explicit false for license scanning](https://github.com/google/osv-scanner/pull/3070) | Open |
 | [microsoft/vscode#301176 · fix: correctly handle falsy values in HistoryNavigator._currentPosition](https://github.com/microsoft/vscode/pull/301176) | Open |
 | [google/googletest#5082 · Preserve UTF-8 strings in JSON output](https://github.com/google/googletest/pull/5082) | **Merged** |
