@@ -37,8 +37,8 @@
 </g>
 <text x="74" y="29" class="repo">microsoft / vscode</text>
 <text x="74" y="50" class="focus">Correctness fixes, terminal suggestions, and regression tes…</text>
-<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">1</text></g>
-<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">3</text></g>
+<g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">2</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">2</text></g>
 <g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">1</text></g>
 </g><g transform="translate(24 178)">
 <rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>
@@ -70,7 +70,7 @@
 <text x="74" y="29" class="repo">google / osv-scanner</text>
 <text x="74" y="50" class="focus">Upstream fixes, tests, and product improvements</text>
 <g transform="translate(875 14)"><rect width="74" height="40" rx="16" fill="#E2F5DC" stroke="#B8DDB0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">MERGED</text><text x="37" y="34" class="chipValue" text-anchor="middle">1</text></g>
-<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">1</text></g>
+<g transform="translate(958 14)"><rect width="74" height="40" rx="16" fill="#F0F4EC" stroke="#D4DED0"/><text x="37" y="18" class="chipLabel" text-anchor="middle">OPEN</text><text x="37" y="34" class="chipValue" text-anchor="middle">2</text></g>
 <g transform="translate(1041 14)"><rect width="86" height="40" rx="16" fill="#F7F8F4" stroke="#DADFD7"/><text x="43" y="18" class="chipLabel" text-anchor="middle">CLOSED</text><text x="43" y="34" class="chipValue" text-anchor="middle">0</text></g>
 </g><g transform="translate(24 346)">
 <rect y="5" width="1152" height="68" rx="19" fill="#31553B" opacity=".07"/>

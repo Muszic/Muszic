@@ -25,8 +25,8 @@
 </g>
 <text x="66" y="26" class="repo">microsoft / vscode</text>
 <text x="66" y="47" class="focus">Correctness fixes, terminal suggestions, and regression t…</text>
-<g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 1</text></g>
-<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 3</text></g>
+<g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 2</text></g>
+<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 2</text></g>
 <g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 1</text></g>
 </g><g transform="translate(18 196)">
 <rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
@@ -58,7 +58,7 @@
 <text x="66" y="26" class="repo">google / osv-scanner</text>
 <text x="66" y="47" class="focus">Upstream fixes, tests, and product improvements</text>
 <g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 1</text></g>
-<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 1</text></g>
+<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 2</text></g>
 <g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
 </g><g transform="translate(18 428)">
 <rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
