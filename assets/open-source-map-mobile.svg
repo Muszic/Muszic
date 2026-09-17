@@ -32,22 +32,6 @@
 <rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
 <rect width="564" height="100" rx="18" fill="#F0F7EB" stroke="#D3DFCC"/>
 <g transform="translate(31 28)">
-<circle r="27.3" fill="#65C774" opacity=".10"/>
-<circle cy="2.5" r="21.0" fill="#234B31" opacity=".14"/>
-<circle r="21.0" fill="url(#metal)" stroke="#315E43" stroke-width="1.4"/>
-<circle r="16.0" fill="#FFFFFF" stroke="#D9E3D5"/>
-<path d="M-10.9 -11.1A14.9 14.9 0 0 1 9.2 -12.2" fill="none" stroke="#FFFFFF" stroke-opacity=".78" stroke-width="2.3" stroke-linecap="round"/>
-<g transform="translate(-11.55 -11.55) scale(0.481250)"><path fill="#FFC107" d="M43.611 20.083H42V20H24v8h11.303C33.65 32.657 29.223 36 24 36c-6.627 0-12-5.373-12-12S17.373 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 12.955 4 4 12.955 4 24s8.955 20 20 20 20-8.955 20-20c0-1.341-.138-2.65-.389-3.917z"/><path fill="#FF3D00" d="M6.306 14.691l6.571 4.819C14.655 15.108 18.961 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 16.318 4 9.656 8.337 6.306 14.691z"/><path fill="#4CAF50" d="M24 44c5.166 0 9.86-1.977 13.409-5.192l-6.19-5.238C29.211 35.091 26.715 36 24 36c-5.202 0-9.619-3.317-11.283-7.946l-6.522 5.025C9.505 39.556 16.227 44 24 44z"/><path fill="#1976D2" d="M43.611 20.083H42V20H24v8h11.303c-.792 2.237-2.231 4.166-4.087 5.571l6.193 5.237C39.993 36.445 44 30.668 44 24c0-1.341-.138-2.65-.389-3.917z"/></g>
-</g>
-<text x="66" y="26" class="repo">google / googletest</text>
-<text x="66" y="47" class="focus">UTF-8 output, flag parsing, and timestamp correctness</text>
-<g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 1</text></g>
-<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 2</text></g>
-<g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
-</g><g transform="translate(18 312)">
-<rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
-<rect width="564" height="100" rx="18" fill="#F0F7EB" stroke="#D3DFCC"/>
-<g transform="translate(31 28)">
 <circle r="27.3" fill="#82E35B" opacity=".10"/>
 <circle cy="2.5" r="21.0" fill="#234B31" opacity=".14"/>
 <circle r="21.0" fill="url(#metal)" stroke="#315E43" stroke-width="1.4"/>
@@ -57,6 +41,22 @@
 </g>
 <text x="66" y="26" class="repo">google / osv-scanner</text>
 <text x="66" y="47" class="focus">Upstream fixes, tests, and product improvements</text>
+<g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 2</text></g>
+<g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 1</text></g>
+<g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
+</g><g transform="translate(18 312)">
+<rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
+<rect width="564" height="100" rx="18" fill="#F0F7EB" stroke="#D3DFCC"/>
+<g transform="translate(31 28)">
+<circle r="27.3" fill="#65C774" opacity=".10"/>
+<circle cy="2.5" r="21.0" fill="#234B31" opacity=".14"/>
+<circle r="21.0" fill="url(#metal)" stroke="#315E43" stroke-width="1.4"/>
+<circle r="16.0" fill="#FFFFFF" stroke="#D9E3D5"/>
+<path d="M-10.9 -11.1A14.9 14.9 0 0 1 9.2 -12.2" fill="none" stroke="#FFFFFF" stroke-opacity=".78" stroke-width="2.3" stroke-linecap="round"/>
+<g transform="translate(-11.55 -11.55) scale(0.481250)"><path fill="#FFC107" d="M43.611 20.083H42V20H24v8h11.303C33.65 32.657 29.223 36 24 36c-6.627 0-12-5.373-12-12S17.373 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 12.955 4 4 12.955 4 24s8.955 20 20 20 20-8.955 20-20c0-1.341-.138-2.65-.389-3.917z"/><path fill="#FF3D00" d="M6.306 14.691l6.571 4.819C14.655 15.108 18.961 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 16.318 4 9.656 8.337 6.306 14.691z"/><path fill="#4CAF50" d="M24 44c5.166 0 9.86-1.977 13.409-5.192l-6.19-5.238C29.211 35.091 26.715 36 24 36c-5.202 0-9.619-3.317-11.283-7.946l-6.522 5.025C9.505 39.556 16.227 44 24 44z"/><path fill="#1976D2" d="M43.611 20.083H42V20H24v8h11.303c-.792 2.237-2.231 4.166-4.087 5.571l6.193 5.237C39.993 36.445 44 30.668 44 24c0-1.341-.138-2.65-.389-3.917z"/></g>
+</g>
+<text x="66" y="26" class="repo">google / googletest</text>
+<text x="66" y="47" class="focus">UTF-8 output, flag parsing, and timestamp correctness</text>
 <g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 1</text></g>
 <g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 2</text></g>
 <g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
