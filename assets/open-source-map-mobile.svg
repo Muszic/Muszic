@@ -80,19 +80,15 @@
 <rect y="5" width="564" height="100" rx="18" fill="#31553B" opacity=".07"/>
 <rect width="564" height="100" rx="18" fill="#FEFFF9" stroke="#D3DFCC"/>
 <g transform="translate(31 28)">
-<circle r="27.3" fill="#FFD10A" opacity=".10"/>
+<circle r="27.3" fill="#82E35B" opacity=".10"/>
 <circle cy="2.5" r="21.0" fill="#234B31" opacity=".14"/>
 <circle r="21.0" fill="url(#metal)" stroke="#315E43" stroke-width="1.4"/>
-<circle r="16.0" fill="#171B1D" stroke="#D9E3D5"/>
+<circle r="16.0" fill="#FFFFFF" stroke="#D9E3D5"/>
 <path d="M-10.9 -11.1A14.9 14.9 0 0 1 9.2 -12.2" fill="none" stroke="#FFFFFF" stroke-opacity=".78" stroke-width="2.3" stroke-linecap="round"/>
-<g transform="translate(-11.55 -11.55) scale(0.271765)">
-<path d="M21.4062 48.0411V72.0137L42.524 84L63.6417 72.0137V48.0411L42.524 60.0274L21.4062 48.0411Z" fill="#786BB0"/>
-<path d="M21.4063 48.0411V24.4041L42.5241 36.3904L63.6418 24.4041L42.5241 11.9863L21.4063 0L0 12.0822V36.0548L21.4063 48.0411Z" fill="#FFD10A"/>
-<path d="M85.0001 12.0821L63.6418 .0479V24.404V47.9931L85.0001 36.0547V12.0821Z" fill="#F04F5E"/>
+<text x="0" y="3.8" text-anchor="middle" font-family="Inter,Segoe UI,Arial" font-size="14.7" font-weight="800" fill="#0A7A43">TP</text>
 </g>
-</g>
-<text x="66" y="26" class="repo">tenstorrent / polaris</text>
-<text x="66" y="47" class="focus">ONNX workloads and fused-operator support</text>
+<text x="66" y="26" class="repo">tenstorrent / tt-polaris</text>
+<text x="66" y="47" class="focus">Upstream fixes, tests, and product improvements</text>
 <g transform="translate(66 61)"><rect width="104" height="27" rx="12" fill="#E2F5DC" stroke="#B8DDB0"/><text x="52" y="18" class="chip" text-anchor="middle">MERGED 0</text></g>
 <g transform="translate(176 61)"><rect width="94" height="27" rx="12" fill="#F0F4EC" stroke="#D4DED0"/><text x="47" y="18" class="chip" text-anchor="middle">OPEN 2</text></g>
 <g transform="translate(280 61)"><rect width="110" height="27" rx="12" fill="#F7F8F4" stroke="#DADFD7"/><text x="55" y="18" class="chip" text-anchor="middle">CLOSED 0</text></g>
