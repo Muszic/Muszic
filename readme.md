@@ -133,6 +133,7 @@ Public pull requests, grouped by the repositories where I contributed.
 
 | Pull request | Status |
 | :--- | :--- |
+| [microsoft/vscode#301119 · fix: correct ArrayQueue boundaries in takeWhile and takeFromEndWhile](https://github.com/microsoft/vscode/pull/301119) | **Merged** |
 | [google/osv-scanner#3087 · fix: group output packages by exact ecosystem](https://github.com/google/osv-scanner/pull/3087) | **Merged** |
 | [microsoft/vscode#305309 · Add upstream Cargo completion spec for terminal suggestions](https://github.com/microsoft/vscode/pull/305309) | **Merged** |
 | [google/googletest#5090 · Fix JSON timestamps to use UTC](https://github.com/google/googletest/pull/5090) | Open |
@@ -140,7 +141,6 @@ Public pull requests, grouped by the repositories where I contributed.
 | [google/osv-scanner#3070 · fix: respect explicit false for license scanning](https://github.com/google/osv-scanner/pull/3070) | Open |
 | [microsoft/vscode#301176 · fix: correctly handle falsy values in HistoryNavigator._currentPosition](https://github.com/microsoft/vscode/pull/301176) | Open |
 | [google/googletest#5082 · Preserve UTF-8 strings in JSON output](https://github.com/google/googletest/pull/5082) | **Merged** |
-| [tenstorrent/tt-polaris#496 · Add deeepseek-coder workload ONNX Support](https://github.com/tenstorrent/tt-polaris/pull/496) | Open |
 
 </details>
 
